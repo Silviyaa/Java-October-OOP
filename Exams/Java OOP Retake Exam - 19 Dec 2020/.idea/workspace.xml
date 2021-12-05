@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ace108e-08c3-40d5-966f-69d97da538ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/MessageLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/appenders/BaseAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/appenders/ConsoleAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/appenders/FileAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/appenders/LogFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/factories/AppenderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/factories/LayoutFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/factories/LoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/layouts/SimpleLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/impl/layouts/XmlLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/interfaces/Appender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/interfaces/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/interfaces/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/interfaces/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/src/interfaces/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7. SOLID/Exercise/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7. SOLID/Exercise/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="21k8HiA9uXsZx9zrfUb6d9ctjM7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ace108e-08c3-40d5-966f-69d97da538ba" name="Changes" comment="" />
+      <created>1638473638951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638473638951</updated>
+      <workItem from="1638473640369" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
