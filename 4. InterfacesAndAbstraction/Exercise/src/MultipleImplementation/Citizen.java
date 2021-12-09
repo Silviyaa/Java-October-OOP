@@ -1,14 +1,10 @@
 package MultipleImplementation;
 
-import birthday.Birthable;
-import birthday.Identifiable;
-import birthday.Person;
-
-public class Citizen implements Person, Birthable, Identifiable {
+public class Citizen extends Birthable implements Person, Identifiable {
     private String name;
     private int age;
-    private String birthDate;
     private String id;
+    private String birthDate;
 
     public Citizen(String name, int age, String id, String birthDate) {
         this.name = name;
@@ -19,23 +15,24 @@ public class Citizen implements Person, Birthable, Identifiable {
 
     @Override
     public String getName() {
-        return this.name;
+        return name;
     }
 
     @Override
     public int getAge() {
-        return this.age;
+        return age;
     }
 
     @Override
     public String getBirthDate() {
-        return this.birthDate;
+        return birthDate;
     }
 
     @Override
     public String getId() {
-        return this.id;
+        return id;
     }
+
     @Override
     public String toString() {
         return "Citizen{}";

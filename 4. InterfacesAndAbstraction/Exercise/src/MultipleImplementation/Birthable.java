@@ -1,8 +1,6 @@
 package MultipleImplementation;
 
-public class Birthable {
-    String getBirthDate() {
-        return null;
-    }
+public abstract class Birthable {
+    abstract String getBirthDate();
 
 }
